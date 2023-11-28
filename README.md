@@ -4,3 +4,6 @@ The following repository contains an Openstudio measure for the modelling of the
 Developer : Houssem Eddine Younes, Msc | houssem-eddine.younes.1@ens.etsmtl.ca
 
 Research supervisors: Dr. Katherine D'Avignon (ETS) and François Laurencelle (LTE-HQ)
+
+
+Please give appropriate credit in any publications when you use our Type for your simulations. You may cite the model repository's own DOI (10.5281/zenodo.10079198) and note the specific version used.
