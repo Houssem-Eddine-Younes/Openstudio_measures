@@ -2,7 +2,7 @@
 
 ###### (Automatically generated documentation)
 
-# Add Central Electric Thermal Storage V2
+# Add Central Electric Thermal Storage 
 
 ## Description
 This measures adds a central Electric Thermal Storage (ETS) to the current building model
