@@ -3,8 +3,8 @@
   <schema_version>3.0</schema_version>
   <name>add_central_electric_thermal_storage_v_2</name>
   <uid>a260e442-106e-4bca-8f21-c3d700b8182f</uid>
-  <version_id>05477d83-751f-42de-81d4-b0e430728b63</version_id>
-  <version_modified>20230907T165640Z</version_modified>
+  <version_id>559de0f7-33f6-41bf-b78e-4b431d7dde5e</version_id>
+  <version_modified>20230907T155849Z</version_modified>
   <xml_checksum>A2F4ED33</xml_checksum>
   <class_name>AddCentralElectricThermalStorageV2</class_name>
   <display_name>Add Central Electric Thermal Storage V2</display_name>
@@ -18,7 +18,7 @@
       <type>String</type>
       <required>true</required>
       <model_dependent>false</model_dependent>
-      <default_value>ETS1</default_value>
+      <default_value>ATC1</default_value>
     </argument>
     <argument>
       <name>selected_loop</name>
@@ -294,7 +294,7 @@
       <filename>measure.rb</filename>
       <filetype>rb</filetype>
       <usage_type>script</usage_type>
-      <checksum>C84B49A9</checksum>
+      <checksum>007C17A8</checksum>
     </file>
   </files>
 </measure>

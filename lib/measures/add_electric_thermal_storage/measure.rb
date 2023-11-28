@@ -11,7 +11,7 @@ class AddCentralElectricThermalStorageV2 < OpenStudio::Measure::ModelMeasure
 
   # human readable description of modeling approach
   def modeler_description
-    return "Refer to measure documentation for input description and use cases"
+    return "Code developed by M. Houssem Eddine Younes, M.Sc. Supervised by Mme. Katherine D'Avignon, Ph.D  & M. François Laurencelle, Ph.D. Funded by Mitacs Inc and Hydro-Québec."
   end
 
   # define the arguments that the user will input
